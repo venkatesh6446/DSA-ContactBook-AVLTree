@@ -1,0 +1,8 @@
+appu,646461664684,appureddy@gmail.omc
+venky ,632006446,venky121@gamil.com
+
+
+
+--------------
+javac Contact.java AVLTree.java ContactAppGUI.java   -> this code is used compile the  code
+java ContactAppGUI ----> this line is used to run the  code to see the  final output 
