@@ -47,7 +47,7 @@ A Java-based contact management system powered by a self-balancing AVL Tree, off
     * Demonstrated skills in data modeling, performance optimization, and GUI integration
     * Ideal for interviews focused on trees, time complexity, and object-oriented design
 
-
+   ![images-alt](https://github.com/venkatesh6446/DSA-ContactBook-AVLTree/blob/a35d9964ff6ac44bbc6984cbf1eaf1f50bb54e60/AVL%20TREE%20%20OF%20CONTACTS.jpg)
     
 
 
